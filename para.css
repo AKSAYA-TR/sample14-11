@@ -1,0 +1,12 @@
+.aks
+{
+    position:relative;
+    border:2px solid green;
+    top:200px;
+}
+.aksa
+{
+    position:fixed;
+    border:2px solid green;
+    top:2px;
+}
